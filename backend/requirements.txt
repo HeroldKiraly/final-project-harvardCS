@@ -1,0 +1,7 @@
+cs50
+flask
+flask-cors
+flask-session
+flask-jwt-extended
+Werkzeug
+SQLAlchemy
